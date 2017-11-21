@@ -8,6 +8,7 @@ Amazon Alexa skill who can fetch the price of Ark and output it through Alexa.
 - [Zappa](https://github.com/Miserlou/Zappa)
 - [AWSCli](https://pypi.python.org/pypi/awscli)
 - [Flask-ask](https://github.com/johnwheeler/flask-ask)
+- [Amazon Lambda](https://aws.amazon.com/fr/lambda/details/)
 
 ## How to use it
 I have no Alexa so I can't document on how to use it currently, but I can document
