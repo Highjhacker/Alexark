@@ -2,6 +2,8 @@
 
 Amazon Alexa skill who can fetch the price of Ark and output it through Alexa.
 
+[Amazon link](https://www.amazon.com/dp/B077LVR5PL/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1511289975&sr=1-1&keywords=ark+price)
+
 ## Built with
 - [Python](https://www.python.org/)
 - [Requests](http://docs.python-requests.org/en/master/)
