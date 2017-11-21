@@ -13,7 +13,7 @@ Amazon Alexa skill who can fetch the price of Ark and output it through Alexa.
 - [Amazon Lambda](https://aws.amazon.com/fr/lambda/details/)
 
 ## How to use it
-I have no Alexa so I can't document on how to use it currently, but I can document
+I don't have Alexa so I can't document on how to use it currently, but I can document
 on how to use it with [echosim](https://echosim.io/).
 
 You just have to go on the [echosim website](https://echosim.io/), allow it to use
