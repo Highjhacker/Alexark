@@ -1,0 +1,7 @@
+ArkPriceIntent say ark
+ArkPriceIntent say ark price
+ArkPriceIntent ark
+ArkPriceIntent say price
+ArkPriceIntent price
+ArkPriceIntent price ark
+ArkPriceIntent say price ark
