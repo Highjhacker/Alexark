@@ -21,7 +21,7 @@ def ark_price():
     r = requests.get("https://api.coinmarketcap.com/v1/ticker/ark/")
     if r.status_code == 200:
         price = r.json()[0]["price_usd"]
-        speech = "The price of Ark is {0} $".format(price)
+        speech = "The price of Ark is {0:.2f} $".format(float(price))
     logger.info('speech = {}'.format(speech))
     return statement(speech)
 
