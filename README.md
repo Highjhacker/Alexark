@@ -25,11 +25,16 @@ your microphone. Then you can ask things like "Alexa, ask Ark price", "Alexa, op
 ## TODOS
 - [ ] Just output the two first decimals maybe ?
 - [ ] Allow to specify a currency for converting the price of Ark (like euro, chf, ...)
+- [ ] Add the command "Alexa, what is the price of ARK ?"
 - [ ] ... 
 
 ## Authors
 
 - Jolan Beer - Highjhacker
+
+## Sponsored by
+
+- Delegate [Jarunik](https://explorer.ark.io/address/Aasu14aTs9ipZdy1FMv7ay1Vqn3jPskA8t)
 
 ## License
 
