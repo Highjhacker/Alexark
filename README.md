@@ -23,7 +23,7 @@ your microphone. Then you can ask things like "Alexa, ask Ark price", "Alexa, op
 - Can get the price from CoinMarketCap.
 
 ## TODOS
-- [ ] Just output the two first decimals maybe ?
+- [x] Just output the two first decimals maybe ?
 - [ ] Allow to specify a currency for converting the price of Ark (like euro, chf, ...)
 - [ ] Add the command "Alexa, what is the price of ARK ?"
 - [ ] ... 
