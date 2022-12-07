@@ -5,7 +5,7 @@ awscli==1.11.189
 base58==0.2.4
 boto3==1.4.7
 botocore==1.7.47
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.11.2
 chardet==3.0.4
 click==6.7
